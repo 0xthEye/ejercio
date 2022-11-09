@@ -1,15 +1,11 @@
+.fakeimg {
+    height: 200px;
+    background: #aaa;
+  }
 h1{
-    background-color: rgb(56, 38, 170);
-    color: beige;
+    color: red;
     text-align: center;
-    width: 50%;
 }
 p{
-    background-color: black;
-    color: beige; 
-    position: -ms-page;
-}
-body{
-    background-color: coral;
-    display: block;
+    background-color: aqua;
 }
