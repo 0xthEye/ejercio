@@ -1,0 +1,9 @@
+/*Selectionar body y cambiar fondo color en oro y color de lo que escribi en amarillo*/
+body{
+    background-color: darkgoldenrod;
+    color: yellow;
+}
+/*todos tilulos son en medio*/
+h1,h2,h3,h4,h5,h6,p{
+    text-align: center;
+}
